@@ -2,3 +2,4 @@
 
 ToDo:
       .) docs/getting-started.md >> https://github.com/akTwelve/cocosynth.git
+      +) Getting Started.md
