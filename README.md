@@ -6,6 +6,8 @@ ToDo:
 
 # _
 
-## more resources
->https://ainize.ai/gkswjdzz/ainized-detectron2
->https://ai-network.gitbook.io/ainize-tutorials/tutorials/ainize-examples/primality-test
+> more resources
+
+>> https://ainize.ai/gkswjdzz/ainized-detectron2
+
+>> https://ai-network.gitbook.io/ainize-tutorials/tutorials/ainize-examples/primality-test
